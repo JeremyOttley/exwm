@@ -1,2 +1,2 @@
-# exwm
+* EXWM
 My GNU EMACS X Window Manager Configuration
