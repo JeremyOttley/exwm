@@ -1,2 +1,9 @@
 * EXWM
 My GNU EMACS X Window Manager Configuration
+
+# Packages
+
+Cider
+LSP
+CLJ-Kondo
+Joker
