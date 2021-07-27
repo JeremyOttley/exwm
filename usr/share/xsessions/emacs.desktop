@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=EmacsWM
+Comment=Emacs X Window Manager
+Exec=emacs
+Type=Application
